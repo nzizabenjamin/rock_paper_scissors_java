@@ -47,6 +47,6 @@ public class rps {
                 break;
             }
         }
-
+sc.close();
     }
 }
